@@ -1,0 +1,20 @@
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+
+body{
+	/*background-color: #E5DDCB;*/
+	/*background-image:url("../images/dots.png");*/
+	background-size: 100%;
+    background-repeat: no-repeat;
+    margin: 13%;
+    /*margin-top: 10%;*/
+    height: fixed;
+}
+
+
+
+#title1 {
+	/*width: 50vw;*/
+	margin: 0 auto;
+	text-align: center;
+	display: inline;
+}
