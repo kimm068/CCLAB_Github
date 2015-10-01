@@ -39,7 +39,8 @@ function draw() {
   
   fill(255);
   textAlign(CENTER);
-  text("click 'S' to break cookies", width/2, 20);
+  textSize(20);
+  text("click 'S' to break cookies", width/2, 750);
   // bulletImage = loadImage("assets/asteroids_bullet"+floor(random(1,4))+".png");
   
   for(var i=0; i<allSprites.length; i++) {
